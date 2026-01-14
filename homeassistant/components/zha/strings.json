@@ -64,7 +64,7 @@
         "data": {
           "path": "Serial device path"
         },
-        "description": "Select the serial port for your Zigbee adapter",
+        "description": "Select the serial port of your new Zigbee adapter",
         "title": "Select a serial port"
       },
       "choose_setup_strategy": {
